@@ -1,6 +1,6 @@
 # analise-de-emails-defender
 Pilares a validar na análise de confiabilidade do fluxo de e-mails no Defender.
-Análise de e-mails – Microsoft Defender
+Análise de e-mails – Microsoft Defender - No ***Action Center***
 
 Além de analisar o IP de origem (numa página externa), domínio e endereço do remetente.
 
